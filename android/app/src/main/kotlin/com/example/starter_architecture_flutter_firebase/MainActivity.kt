@@ -1,4 +1,4 @@
-package com.example.starter_architecture_flutter_firebase
+package com.hellodanial.archflutterfire
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
