@@ -100,3 +100,4 @@ ios/Runner/GoogleService-Info.plist
 android/app/google-services.json
 .run/main.dart.run.xml
 lib/generated_plugin_registrant.dart
+lib/generated_plugin_registrant.dart
